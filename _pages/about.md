@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='kuet.ac.bd'>Khulna University of Engineering & Technology</a>//Electronics and Communication Engineering | Researcher in AI, Wireless Communication & Intelligent Networks
+subtitle: [Khulna University of Engineering & Technology, Khulna, Bangladesh](https://kuet.ac.bd)
+
+Electronics and Communication Engineering | Researcher in AI, Wireless Communication & Intelligent Networks
 
 profile:
   align: right
