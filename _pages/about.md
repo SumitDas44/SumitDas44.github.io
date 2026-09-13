@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='kuet.ac.bd'>Khulna University of Engineering & Technology</a>//Electronics and Communication Engineering | Researcher in AI, Wireless Communication & Intelligent Networks
 
 profile:
   align: right
@@ -26,8 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Electronics and Communication Engineering graduate from Khulna University of Engineering & Technology (KUET), Bangladesh, with research interests spanning artificial intelligence, machine learning, wireless communication, computer networks, and intelligent systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My undergraduate research focused on wireless sensor networks, machine learning, and network optimization, where I investigated energy-efficient routing and network lifetime improvement. My research has resulted in publications in a peer-reviewed journal, including work on node deployment for heterogeneous wireless sensor networks. Beyond wireless sensor networks, I am interested in exploring AI-driven communication and next-generation networking systems, including ad hoc and vehicular networks, intelligent resource allocation, autonomous systems, and the application of large language models (LLMs) to intelligent robotic and unmanned systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am particularly interested in interdisciplinary research that combines AI/ML with communication and networking technologies to develop adaptive, efficient, and intelligent systems. I am also exploring emerging areas in integrated optical computing, and neuromorphic systems.
+
+This website serves as my academic portfolio, featuring my research, publications, projects, technical experience, and academic journey.
