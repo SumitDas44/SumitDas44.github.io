@@ -9,7 +9,6 @@ profile:
   image: dp.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Electronics and Communication Engineering</p>
     <p>Khulna University of Engineering & Technology (KUET)</p>
     <p>Khulna, Bangladesh</p>
 
@@ -27,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an **Electronics and Communication Engineering graduate** from **Khulna University of Engineering & Technology (KUET), Bangladesh**, with research interests spanning **artificial intelligence, machine learning, wireless communication, computer networks, and intelligent systems**.
+I am an **Electronics and Communication Engineering graduate** from <a href="https://kuet.ac.bd" class="no-underline">**Khulna University of Engineering & Technology (KUET), Bangladesh**</a>, with research interests spanning **artificial intelligence, machine learning, wireless communication, computer networks, and intelligent systems**.
 
 My undergraduate research focused on **wireless sensor networks, machine learning, and network optimization**, where I investigated energy-efficient routing and network lifetime improvement. My research has resulted in publication in peer-reviewed journal, including work on node deployment for heterogeneous wireless sensor networks. Beyond wireless sensor networks, I am interested in exploring **AI-driven communication and next-generation networking systems**, including **ad hoc and vehicular networks, intelligent resource allocation, autonomous systems, and the application of large language models (LLMs) to intelligent robotic and unmanned systems**.
 
