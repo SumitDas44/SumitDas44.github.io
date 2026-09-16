@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Published first research article in **PLOS ONE**. 🔗 Read the full article: <a href="https://lnkd.in/ehZhQGen" class="no-underline">**Here**</a>
+Published first research article in **PLOS ONE**. 🔗 Read the full article: <a href="https://lnkd.in/ehZhQGen" class="no-underline">Here</a>
