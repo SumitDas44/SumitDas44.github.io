@@ -33,7 +33,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Thesis Title: "EZS-SEP: A Hybrid Efficient Zonal Stable Election Routing Protocol with SOM-Based Node Deployment for Heterogeneous Wireless Sensor Networks."
+          - "Thesis Title: EZS-SEP: A Hybrid Efficient Zonal Stable Election Routing Protocol with SOM-Based Node Deployment for Heterogeneous Wireless Sensor Networks."
 
       - institution: Dhaka College
         location: Dhaka, Bangladesh
@@ -49,7 +49,7 @@ cv:
         location: Queens, NY, USA
         start_date: 2026
         end_date: Present
-        summary: I am currently working remotely to contribute to the lab’s ongoing projects on Large Language Models and their applications.
+        summary: I am currently working remotely to contribute to the lab's ongoing projects on Large Language Models and their applications.
         highlights:
 
       - company: Khulna University of Engineering & Technology
@@ -58,8 +58,8 @@ cv:
         start_date: 2024
         end_date: 2025
         highlights:
-          - Wireless Sensor Network: During my undergraduate thesis, I enhanced the network lifetime and energy efficiency of SEP and DEEC protocol by introducing improved probability, threshold equations and implementing advanced deployment and sleep-awake schedules of the nodes. The enhanced protocol nearly got 34% stability period improvement compared to the parent protocol.
-          - Machine Learning integration with WSN: Used Self-organizing maps for the deployment of nodes, which got around 7% better area coverage, and used clustering algorithms to organize the clusters in SEP protocol. Also used the random forest algorithm in deciding a secondary cluster-head for multi-hop routing.
+          - "Wireless Sensor Network: During my undergraduate thesis, I enhanced the network lifetime and energy efficiency of SEP and DEEC protocol by introducing improved probability, threshold equations and implementing advanced deployment and sleep-awake schedules of the nodes. The enhanced protocol nearly got 34% stability period improvement compared to the parent protocol."
+          - "Machine Learning integration with WSN: Used Self-organizing maps for the deployment of nodes, which got around 7% better area coverage, and used clustering algorithms to organize the clusters in SEP protocol. Also used the random forest algorithm in deciding a secondary cluster-head for multi-hop routing."
 
     Volunteer:
       - company: 
@@ -71,30 +71,29 @@ cv:
         highlights:
 
     Awards:
-      - title: Dean’s Award
+      - title: Dean's Award
         authors:
           - "Faculty of Electrical and Electronic Engineering"
         date: "2022-23"
         awarder: Faculty of Electrical and Electronic Engineering
         url: 
-        summary:  For scoring above 3.75 cgpa in the fourth year.
+        summary: For scoring above 3.75 cgpa in the fourth year.
 
-        - title: Technical Scholarship
+      - title: Technical Scholarship
         authors:
           - "Faculty of Electrical and Electronic Engineering"
         date: "2020-2023"
         awarder: Faculty of Electrical and Electronic Engineering
         url: 
-        summary:  For good academic results from first to third year of undergraduate.
+        summary: For good academic results from first to third year of undergraduate.
 
-        - title: General Scholarship
+      - title: General Scholarship
         authors:
           - "Dhaka Board"
         date: 2017
         awarder: Dhaka Board
         url: 
-        summary:  For outstanding result in board exams.
-
+        summary: For outstanding result in board exams.
 
     Publications:
       - title: EZS-SEP: A hybrid efficient zonal stable election routing protocol with SOM-based node deployment for heterogeneous wireless sensor networks
@@ -105,7 +104,6 @@ cv:
         releaseDate: 2026-08-27
         url: https://doi.org/10.1371/journal.pone.0346479
         summary: This work focuses on improving the stability, network lifetime, throughput, and energy efficiency of heterogeneous Wireless Sensor Networks (WSNs). We developed EZS-SEP by combining zonal stable election routing, Self-Organizing Maps (SOM), and an energy-distance-aware communication strategy for efficient node deployment and data transmission.
-        
 
     Skills:
       - name: Software Skills
@@ -138,7 +136,7 @@ cv:
     Interests:
       - name: Ad-hoc Networks
         icon: fa-solid fa-tag
-        keywords: "Wireless Sensor Networks, Vehicular Networks, UAVs, IoT, Computer Nerworks"
+        keywords: "Wireless Sensor Networks, Vehicular Networks, UAVs, IoT, Computer Networks"
 
       - name: Artificial Intelligence
         icon: fa-solid fa-tag
@@ -180,10 +178,38 @@ cv:
         end_date: 2018-01-01
 
     References:
-      - name: Professor John Doe
+      - name: Dr. Sk. Shariful Alam
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference:
+        Professor
+        
+        Dept. of Electronics and Communication Engineering
+        
+        Khulna University of Engineering & Technology (KUET), Bangladesh
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        Email: ssalam@ece.kuet.ac.bd
+        Phone: +880 1930788352
+
+      - name: Dr. A. B. M. Aowlad Hossain
+        icon: fa-solid fa-laptop
+        reference:
+        Professor
+        
+        Dept. of Electronics and Communication Engineering
+        
+        Khulna University of Engineering & Technology (KUET), Bangladesh
+
+        Email: aowlad0403@ece.kuet.ac.bd
+        Phone: +880 1630713716
+
+      - name: Md. Khorshed Alom
+        icon: fa-solid fa-laptop
+        reference:
+        Assistant Professor
+        
+        Dept. of Electronics and Communication Engineering
+        
+        Khulna University of Engineering & Technology (KUET), Bangladesh
+
+        Email: khorshed@ece.kuet.ac.bd
+        Phone: +880 1750294646
