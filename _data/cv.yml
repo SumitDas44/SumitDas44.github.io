@@ -96,7 +96,7 @@ cv:
         summary: For outstanding result in board exams.
 
     Publications:
-      - title: EZS-SEP: A hybrid efficient zonal stable election routing protocol with SOM-based node deployment for heterogeneous wireless sensor networks
+      - title: "EZS-SEP: A hybrid efficient zonal stable election routing protocol with SOM-based node deployment for heterogeneous wireless sensor networks"
         authors:
           - Sumit Das
           - Md. Khorshed Alom
