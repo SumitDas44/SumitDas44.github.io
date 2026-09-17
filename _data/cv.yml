@@ -74,7 +74,7 @@ cv:
       - title: Dean’s Award
         authors:
           - "Faculty of Electrical and Electronic Engineering"
-        date: 2022-23
+        date: "2022-23"
         awarder: Faculty of Electrical and Electronic Engineering
         url: 
         summary:  For scoring above 3.75 cgpa in the fourth year.
@@ -82,7 +82,7 @@ cv:
         - title: Technical Scholarship
         authors:
           - "Faculty of Electrical and Electronic Engineering"
-        date: 2020-23
+        date: "2020-2023"
         awarder: Faculty of Electrical and Electronic Engineering
         url: 
         summary:  For good academic results from first to third year of undergraduate.
