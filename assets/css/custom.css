@@ -1,4 +1,4 @@
-.lsit-group-item {
-  list-style: none !important;
-  padding-left: 0 !important;
+li.list-group-item::marker {
+  content: "";
+  display: none;
 }
