@@ -27,7 +27,7 @@ cv:
         location: Khulna, Bangladesh
         url: https://www.kuet.ac.bd/
         area: Electronics and Communication Engineering
-        studyType: BSc
+        studyType: Bachelor of Science 
         start_date: 2020
         end_date: 2025
         score: ""
@@ -62,11 +62,11 @@ cv:
           - "Machine Learning integration with WSN: Used Self-organizing maps for the deployment of nodes, which got around 7% better area coverage, and used clustering algorithms to organize the clusters in SEP protocol. Also used the random forest algorithm in deciding a secondary cluster-head for multi-hop routing."
 
     Volunteer:
-      - company: Extracurricular Activities
-        position: 
+      - company: 
+        position: Extracurricular Activities
         location: Khulna, Bangladesh
-        start_date: 
-        end_date: 
+        start_date: 2020
+        end_date: 2025
         summary: Served as General Secretary and Vice-president in different university clubs and organized numerous inter-university and national events
         highlights:
 
@@ -74,7 +74,7 @@ cv:
       - title: Dean's Award
         authors:
           - "Faculty of Electrical and Electronic Engineering"
-        date: "2022-23"
+        date: "2025"
         awarder: Faculty of Electrical and Electronic Engineering
         url: 
         summary: For scoring above 3.75 cgpa in the fourth year.
@@ -82,7 +82,7 @@ cv:
       - title: Technical Scholarship
         authors:
           - "Faculty of Electrical and Electronic Engineering"
-        date: "2020-2023"
+        date: "2024"
         awarder: Faculty of Electrical and Electronic Engineering
         url: 
         summary: For good academic results from first to third year of undergraduate.
@@ -168,23 +168,109 @@ cv:
         issuer: EDGE by ICT Division
         icon: fa-solid fa-envelope
 
-    Projects:
+    Projects:        
+      - name: Gesture based AI Keyboard and Volume Control
+        summary: Developed a contactless human-computer interface using Python, OpenCV, and MediaPipe. Integrated a virtual keyboard that simulates keystrokes via thumb-index pinch gestures (using pynput) and a dynamic volume controller that maps finger proximity to Windows Audio API commands for real-time system interaction.
+
+        highlights:
+        
+        start_date: 2025
+        end_date: 2025
+
+      - name: YOLO Object Detection & Tracking
+        summary: Developed a suite of real-time vision applications using YOLOv8 and SORTfor multi-object tracking. Implemented bi-directional traffic and pedestrian counters, and trained custom models for safety gear detection and real-time Poker Hand Analysis.
+        highlights:
+        
+        start_date: 2025
+        end_date: 2025
+
+      - name: Ai Football Analysis System
+        summary: Built a YOLO-based analysis tool to track football players and calculate speed/distance in meters. Utilized K-Means for team assignment, Optical Flow to handle camera movement, and Perspective Transformation to accurately map the field dimensions.
+        highlights:
+        
+        start_date: 2025
+        end_date: 2025
+
+      - name: IoT-Based Patient Monitoring System
+        summary: Developed a system using ESP32 and Arduino to track vital signs (BPM, Temp, CO2) and fall detection. Features real-time MATLAB visualization and automated SMS alerts.
+        highlights:
+        
+        start_date: 2024
+        end_date: 2025
+
+      - name: Campus Network
+        summary: Simulated a secure campus network (ECE, CSE, Admin) using Cisco Packet Tracer. Integrated DHCP, VLANs, Web/DNS servers, and RIP dynamic routing with ACL security.
+        highlights:
+        
+        start_date: 2024
+        end_date: 2024
+
       - name: Target Retrieval Rover
         summary: Built an autonomous line-following rover with a custom robotic claw. Utilized a hybrid architecture (Arduino & Raspberry Pi) with OpenCV for real-time color detection.
         highlights:
         
-        start_date: "Robotics & Computer Vision"
-        end_date:
+        start_date: 2023
+        end_date: 2024
+
+      - name: FIR Filter Design
+        summary: Designed a MATLAB bandpass filter (1500–2750 Hz) using Hanning/Hamming windows to suppress noise.
+        highlights:
+        
+        start_date: 2022
+        end_date: 2023
+
+      - name: UWB Vivaldi Antenna Design
+        summary: Designed and simulated an Ultra-Wideband (UWB) Vivaldi Antenna using CST Studio Suite (2.5–4 GHz). Achieved resonance at 3.2 GHz with a return loss of −47.06 dB, VSWR≈1,and 10.25 dBi directivity at 4 GHz. Optimized for narrow beamwidth (HPBW < 70◦) to enable precise wireless detection.
+        highlights:
+        
+        start_date: 2022
+        end_date: 2023
+
+      - name: Blood Bank Management DBMS
+        summary: Created an SQL database to automate blood inventory, expiration tracking, and donor availability dashboards.
+        highlights:
+        
+        start_date: 2022
+        end_date: 2023
+
+      - name: TeliGari-BaZaar (E-commerce)
+        summary: Developed an automotive e-commerce site using PHP and MySQL with secure authentication and persistent carts.
+        highlights:
+        
+        start_date: 2022
+        end_date: 2022
+
+      - name: Variable DC Power Supply
+        summary: Designed a 220V AC to 5V–35V regulated DC supply. Implemented short-circuit and over/under-voltage protection (> 30V, < 10V) using LM358 op-amps and transistor logic. Integrated LM317T regulators, relays, and SCRs for stable output. Simulated in Proteus and implemented on Veroboard.
+        highlights:
+        
+        start_date: 2021
+        end_date: 2022
 
     References:
       - name: Dr. Sk. Shariful Alam
         icon: fa-solid fa-laptop
-        reference: "Professor, Dept. of Electronics and Communication Engineering, Khulna University of Engineering & Technology (KUET), Bangladesh. Email: ssalam@ece.kuet.ac.bd, Phone: +880 1930788352"
+        reference: |
+          Professor
+          Dept. of Electronics and Communication Engineering
+          Khulna University of Engineering & Technology (KUET), Bangladesh
+          Email: ssalam@ece.kuet.ac.bd
+          Phone: +880 1930788352
 
       - name: Dr. A. B. M. Aowlad Hossain
         icon: fa-solid fa-laptop
-        reference: "Professor, Dept. of Electronics and Communication Engineering, Khulna University of Engineering & Technology (KUET), Bangladesh. Email: aowlad0403@ece.kuet.ac.bd, Phone: +880 1630713716"
+        reference: |
+          Professor
+          Dept. of Electronics and Communication Engineering
+          Khulna University of Engineering & Technology (KUET), Bangladesh
+          Email: aowlad0403@ece.kuet.ac.bd
+          Phone: +880 1630713716
 
       - name: Md. Khorshed Alom
         icon: fa-solid fa-laptop
-        reference: "Assistant Professor, Dept. of Electronics and Communication Engineering, Khulna University of Engineering & Technology (KUET), Bangladesh. Email: khorshed@ece.kuet.ac.bd, Phone: +880 1750294646"
+        reference: |
+          Assistant Professor
+          Dept. of Electronics and Communication Engineering
+          Khulna University of Engineering & Technology (KUET), Bangladesh
+          Email: khorshed@ece.kuet.ac.bd
+          Phone: +880 1750294646
