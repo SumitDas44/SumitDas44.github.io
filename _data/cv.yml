@@ -250,27 +250,12 @@ cv:
     References:
       - name: Dr. Sk. Shariful Alam
         icon: fa-solid fa-laptop
-        reference: |
-          Professor
-          Dept. of Electronics and Communication Engineering
-          Khulna University of Engineering & Technology (KUET), Bangladesh
-          Email: ssalam@ece.kuet.ac.bd
-          Phone: +880 1930788352
+        reference: "Professor | Dept. of Electronics and Communication Engineering | KUET, Bangladesh | Email: ssalam@ece.kuet.ac.bd | Phone: +880 1930788352"
 
       - name: Dr. A. B. M. Aowlad Hossain
         icon: fa-solid fa-laptop
-        reference: |
-          Professor
-          Dept. of Electronics and Communication Engineering
-          Khulna University of Engineering & Technology (KUET), Bangladesh
-          Email: aowlad0403@ece.kuet.ac.bd
-          Phone: +880 1630713716
+        reference: "Professor | Dept. of Electronics and Communication Engineering | KUET, Bangladesh | Email: aowlad0403@ece.kuet.ac.bd | Phone: +880 1630713716"
 
       - name: Md. Khorshed Alom
         icon: fa-solid fa-laptop
-        reference: |
-          Assistant Professor
-          Dept. of Electronics and Communication Engineering
-          Khulna University of Engineering & Technology (KUET), Bangladesh
-          Email: khorshed@ece.kuet.ac.bd
-          Phone: +880 1750294646
+        reference: "Assistant Professor | Dept. of Electronics and Communication Engineering | KUET, Bangladesh | Email: khorshed@ece.kuet.ac.bd | Phone: +880 1750294646"
