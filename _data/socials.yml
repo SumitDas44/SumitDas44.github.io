@@ -9,10 +9,10 @@ scholar_userid: oPoZ7-EAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: fa-brands fa-researchgate # can be png, svg, jpg
-  title: Research Gate
-  url: https://www.researchgate.net/profile/Sumit-Das-27?ev=hdr_xprf
+  - logo: fa-brands fa-researchgate # can be png, svg, jpg
+    title: Research Gate
+    url: https://www.researchgate.net/profile/Sumit-Das-27?ev=hdr_xprf
 
-  logo: fa-brands fa-linkedin # can be png, svg, jpg
-  title: LinkedIn
-  url: https://www.linkedin.com/in/sumitdas77/
+  - logo: fa-brands fa-linkedin # can be png, svg, jpg
+    title: LinkedIn
+    url: https://www.linkedin.com/in/sumitdas77/
