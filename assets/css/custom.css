@@ -1,4 +1,0 @@
-/* Remove bullets from CV list items */
-.list-group-item::marker {
-  content: "";
-}
