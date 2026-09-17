@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Electronics and Communication Engineering | Researcher in AI, Wireless Communication & Intelligent Networks"
+subtitle: "Electronics and Communication Engineer | Researcher in AI, Wireless Communication & Intelligent Networks"
 
 profile:
   align: right
