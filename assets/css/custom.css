@@ -1,1 +1,4 @@
-
+li.list-group-item::marker {
+  content: "";
+  display: none;
+}
