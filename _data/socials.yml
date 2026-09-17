@@ -14,6 +14,16 @@ custom_social_1: # can be any name here other than the ones already defined in t
   url: https://www.researchgate.net/profile/Sumit-Das-27?ev=hdr_xprf
 
 custom_social_2:
+  logo: fa-brands fa-orcid
+  title: Orcid
+  url: https://orcid.org/0009-0008-7999-7822
+
+custom_social_3:
+  logo: fa-brands fa-github
+  title: Github
+  url: https://github.com/SumitDas44
+
+custom_social_4:
   logo: fa-brands fa-linkedin # can be png, svg, jpg
   title: LinkedIn
   url: https://www.linkedin.com/in/sumitdas77/
