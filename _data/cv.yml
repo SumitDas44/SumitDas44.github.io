@@ -15,10 +15,10 @@ cv:
       username: sumitdas77
 
   address:
-    street: Tilpapara, Khilgaon
-    city: Dhaka
+    street: Tilpapara
+    city: Khilgaon
     region: Dhaka
-    postalCode: Khilgaon
+    postalCode: 1219
     countryCode: BD
 
   sections:
@@ -62,9 +62,9 @@ cv:
           - "Machine Learning integration with WSN: Used Self-organizing maps for the deployment of nodes, which got around 7% better area coverage, and used clustering algorithms to organize the clusters in SEP protocol. Also used the random forest algorithm in deciding a secondary cluster-head for multi-hop routing."
 
     Volunteer:
-      - company: 
+      - company: Extracurricular Activities
         position: 
-        location: 
+        location: Khulna, Bangladesh
         start_date: 
         end_date: 
         summary: Served as General Secretary and Vice-president in different university clubs and organized numerous inter-university and national events
@@ -169,13 +169,12 @@ cv:
         icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Target Retrieval Rover
+        summary: Built an autonomous line-following rover with a custom robotic claw. Utilized a hybrid architecture (Arduino & Raspberry Pi) with OpenCV for real-time color detection.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+        
+        start_date: "Robotics & Computer Vision"
+        end_date:
 
     References:
       - name: Dr. Sk. Shariful Alam
