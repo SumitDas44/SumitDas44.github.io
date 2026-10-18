@@ -1,14 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - SumitDas44
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - SumitDas44/EZS-SEP
+  - SumitDas44/Ai-Football-Analysis-System
+  - SumitDas44/Campus-Network-using-Cisco-Pracket-Tracer
+  - SumitDas44/Patient-Monitoring-System
+  - SumitDas44/DC-power-supply-and-power-amplifier-using-proteus
+  - SumitDas44/FIR-Filter-design-using-Matlab
+  - SumitDas44/UWV-Vivalvi-antenna-using-CST-Studio
+  - SumitDas44/TeliGari-BaZaar
+  - SumitDas44/Virtual-Keyboard
+  - SumitDas44/Yolo-Basics-with-Projects
+  - SumitDas44/Gesture-Volume-Control
+  - SumitDas44/Blood-Bank-Management_DBMS
