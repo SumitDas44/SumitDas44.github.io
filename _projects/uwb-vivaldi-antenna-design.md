@@ -2,6 +2,7 @@
 layout: page
 title: "UWB Vivaldi Antenna Design"
 description: "Designed and simulated a 2.5–4 GHz ultra-wideband Vivaldi antenna in CST Studio Suite."
+img: assets/img/uwb-vivaldi.png
 importance: 11
 category: "electronics-simulation"
 ---
