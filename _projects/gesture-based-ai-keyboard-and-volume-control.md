@@ -2,6 +2,7 @@
 layout: page
 title: "Gesture-Based AI Keyboard and Volume Control"
 description: "Contactless interface using MediaPipe hand tracking and OpenCV; thumb-index pinch gestures simulate keyboard input while finger proximity controls system volume."
+img: assets/img/gesture-keyboard.png
 importance: 4
 category: "robotics-computer-vision"
 ---
