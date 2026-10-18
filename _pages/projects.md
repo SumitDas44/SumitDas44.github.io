@@ -6,13 +6,7 @@ permalink: /projects/
 description: "Explore my research and technical projects in wireless sensor networks, machine learning, computer vision, robotics, IoT, networking, and electronics."
 nav: true
 nav_order: 3
-display_categories:
-  - research
-  - robotics-computer-vision
-  - computer-networks
-  - internet-of-things
-  - electronics-simulation
-  - web-database
+display_categories: [research, robotics-computer-vision, computer-networks, internet-of-things, electronics-simulation, web-database]
 horizontal: false
 ---
 
