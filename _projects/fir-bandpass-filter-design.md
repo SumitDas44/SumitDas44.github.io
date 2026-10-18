@@ -3,7 +3,7 @@ layout: page
 title: "FIR Bandpass Filter Design"
 description: "Designed a MATLAB FIR bandpass filter operating over 1500–2750 Hz using Hanning and Hamming windows for noise suppression."
 importance: 10
-category: "Electronics & Simulation"
+category: "electronics-simulation"
 ---
 
 ## Overview
