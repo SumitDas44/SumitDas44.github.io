@@ -15,14 +15,7 @@ nav: false
 
   <div style="display: flex; justify-content: center; align-items: center; min-height: 380px; overflow: hidden;">
 
-    <script
-      async
-      src="https://www.stats4u.net/js/globe.js"
-      data-s4uid="<script src="https://www.stats4u.net/s4u.js" data-id="4516586536" data-style="4500" async></script> <!-- Stats4U #4516586536 · Statistics and settings for this counter: https://www.stats4u.net/live/4516586536 -->"
-      data-size="360"
-      data-lang="en"
-      data-count="1">
-    </script>
+    <script async src="https://www.stats4u.net/js/globe.js" data-s4uid="5630477050" data-size="280" data-lang="en" data-form="rings" data-count="1"></script>
 
   </div>
 
