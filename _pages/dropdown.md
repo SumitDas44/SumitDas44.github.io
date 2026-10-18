@@ -7,4 +7,6 @@ dropdown: true
 children:
   - title: repositories
     permalink: /repositories/
+  - title: page visits
+    permalink: /page-visits/
 ---
