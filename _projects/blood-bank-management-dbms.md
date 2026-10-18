@@ -3,7 +3,7 @@ layout: page
 title: "Blood Bank Management DBMS"
 description: "SQL database application supporting blood inventory management, expiration tracking, and donor-availability dashboards."
 importance: 13
-category: "Web & Database"
+category: "web-database"
 ---
 
 ## Overview
