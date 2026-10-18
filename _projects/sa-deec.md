@@ -2,6 +2,7 @@
 layout: page
 title: "SA-DEEC"
 description: "An Efficient Sleep-Awake Assisted DEEC Routing Protocol for Heterogeneous Wireless Sensor Network"
+img: assets/img/sa-deec.jpg
 importance: 2
 category: "research"
 ---
