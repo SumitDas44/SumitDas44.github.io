@@ -3,7 +3,7 @@ layout: page
 title: "AI Football Analysis System"
 description: "YOLO-based player tracking and speed/distance estimation in meters, with K-Means team assignment, optical-flow camera-motion handling, and perspective transformation."
 importance: 6
-category: "Robotics & Computer Vision"
+category: "robotics-computer-vision"
 ---
 
 ## Overview
