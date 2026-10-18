@@ -2,6 +2,7 @@
 layout: page
 title: "Target Retrieval Rover"
 description: "Autonomous line-following rover with a custom robotic claw, built using Arduino and Raspberry Pi with OpenCV-based real-time color detection."
+img: assets/img/rover.jpg
 importance: 3
 category: "robotics-computer-vision"
 ---
