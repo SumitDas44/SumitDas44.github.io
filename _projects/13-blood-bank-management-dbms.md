@@ -1,0 +1,17 @@
+---
+layout: page
+title: "Blood Bank Management DBMS"
+description: "SQL database application supporting blood inventory management, expiration tracking, and donor-availability dashboards."
+importance: 13
+category: "Web & Database"
+---
+
+## Overview
+
+SQL database application supporting blood inventory management, expiration tracking, and donor-availability dashboards.
+
+## Key details
+
+Automated core blood bank inventory and donor workflows.
+
+**Technologies:** SQL, Database Management.
