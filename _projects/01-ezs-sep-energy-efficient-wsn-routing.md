@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "EZS-SEP: Energy-Efficient WSN Routing"
-description: "Hybrid zonal routing protocol for heterogeneous wireless sensor networks, combining SOM-based node deployment, clustering, and energy-aware routing."
+title: "EZS-SEP"
+description: "A hybrid efficient zonal stable election routing protocol with SOM-based node deployment for heterogeneous wireless sensor networks"
 importance: 1
 category: "Research"
 ---
@@ -14,6 +14,6 @@ Hybrid zonal routing protocol for heterogeneous wireless sensor networks, combin
 
 Improved stability period by approximately 34% relative to the parent protocol; SOM-based deployment improved area coverage by approximately 7%.
 
-**Technologies:** MATLAB, Wireless Sensor Networks, Self-Organizing Maps.
+**Technologies:** MATLAB, Wireless Sensor Networks, Routing Protocol, Self-Organizing Maps.
 
 **Publication:** [Read the paper](https://doi.org/10.1371/journal.pone.0346479)
