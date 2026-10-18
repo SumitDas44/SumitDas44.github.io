@@ -3,7 +3,7 @@ layout: page
 title: "YOLO Object Detection and Tracking"
 description: "Real-time vision applications using YOLOv8 and SORT for multi-object tracking, traffic and pedestrian counting, safety-gear detection, and poker-hand analysis."
 importance: 5
-category: "Robotics & Computer Vision"
+category: "robotics-computer-vision"
 ---
 
 ## Overview
