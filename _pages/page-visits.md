@@ -10,7 +10,7 @@ nav: false
 
   <div style="display: flex; justify-content: center; align-items: center; min-height: 380px; overflow: hidden;">
 
-    <script async src="https://www.stats4u.net/js/globe.js" data-s4uid="5630477050" data-size="420" data-lang="en" data-form="rings" data-count="1"></script>
+    <script async src="https://www.stats4u.net/js/globe.js" data-s4uid="5630477050" data-size="420" data-lang="en" data-form="rings" data-count="0"></script>
 
   </div>
 
