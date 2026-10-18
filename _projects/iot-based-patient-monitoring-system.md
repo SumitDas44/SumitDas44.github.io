@@ -2,6 +2,7 @@
 layout: page
 title: "IoT-Based Patient Monitoring System"
 description: "ESP32- and Arduino-based patient monitoring system measuring heart rate, temperature, CO2, and fall events."
+img: assets/img/patient.jpg
 importance: 8
 category: "internet-of-things"
 ---
