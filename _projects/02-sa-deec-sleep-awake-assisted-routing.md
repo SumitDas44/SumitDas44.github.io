@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "SA-DEEC: Sleep-Awake Assisted Routing"
-description: "Energy-efficient sleep-awake assisted DEEC routing protocol for heterogeneous wireless sensor networks."
+title: "SA-DEEC"
+description: "An Efficient Sleep-Awake Assisted DEEC Routing Protocol for Heterogeneous Wireless Sensor Network"
 importance: 2
 category: "Research"
 ---
