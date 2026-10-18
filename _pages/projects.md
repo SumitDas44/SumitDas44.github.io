@@ -13,6 +13,15 @@ horizontal: false
 
 <div class="projects">
 
+<p>Total projects: {{ site.projects.size }}</p>
+
+{% for project in site.projects %}
+  <p>
+    {{ project.title }} |
+    Category: {{ project.category }}
+  </p>
+{% endfor %}
+
 {% if site.enable_project_categories and page.display_categories %}
 
   <!-- Display categorized projects -->
